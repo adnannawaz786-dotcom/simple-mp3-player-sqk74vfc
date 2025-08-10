@@ -1,4 +1,3 @@
-```javascript
 import { useState, useRef, useEffect, useCallback } from 'react';
 
 const useAudioPlayer = () => {
@@ -235,4 +234,3 @@ const useAudioPlayer = () => {
 };
 
 export default useAudioPlayer;
-```

@@ -1,4 +1,3 @@
-```css
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -222,4 +221,3 @@
 .animate-spin-slow {
   animation: spin-slow 2s linear infinite;
 }
-```

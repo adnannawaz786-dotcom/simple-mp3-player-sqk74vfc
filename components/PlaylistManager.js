@@ -1,4 +1,3 @@
-```javascript
 import React, { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Upload, X, Music, Plus, Trash2 } from 'lucide-react';
@@ -232,4 +231,3 @@ const PlaylistManager = ({
 };
 
 export default PlaylistManager;
-```

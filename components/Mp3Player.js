@@ -1,4 +1,3 @@
-```javascript
 'use client';
 
 import { useState, useRef, useEffect } from 'react';
@@ -288,4 +287,3 @@ const Mp3Player = () => {
 };
 
 export default Mp3Player;
-```
